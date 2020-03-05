@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\GenesisGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="LevelItemEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AppRoot.cs" t="Include" />
+          <e p="AudioManager.cs" t="Include" />
+          <e p="Constants.cs" t="Include" />
+          <e p="GameItem.cs" t="Include" />
+          <e p="GamePlayManager.cs" t="Include" />
+          <e p="InputManager.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IObjectPool.cs" t="Include" />
+            <e p="IPoolableObject.cs" t="Include" />
+            <e p="IUpdateProvider.cs" t="Include" />
+          </e>
+          <e p="LevelGenerator.cs" t="Include" />
+          <e p="LevelMover.cs" t="Include" />
+          <e p="LevelObstacle.cs" t="Include" />
+          <e p="MainMenuManager.cs" t="Include" />
+          <e p="ObjectPool.cs" t="Include" />
+          <e p="PlayerMover.cs" t="Include" />
+          <e p="UpdateProvider.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GenesisGame.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\Oleh\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Oleh\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_GenesisGame.-1086145201.00" t="ExcludeRecursive" />
+  </component>
+</project>
