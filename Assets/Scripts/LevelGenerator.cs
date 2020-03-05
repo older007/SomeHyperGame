@@ -30,7 +30,7 @@ public class LevelGenerator
 
     public void CreateLevel(int wavesCount)
     {
-        var itemsForLevel = obstacleLevels;
+        var itemsForLevel = obstacleLevels.ToList().Randomize();
         
         foreach (var levelItem in itemsForLevel)
         {

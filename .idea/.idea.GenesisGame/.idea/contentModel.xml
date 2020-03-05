@@ -23,10 +23,12 @@
           <e p="LevelGenerator.cs" t="Include" />
           <e p="LevelMover.cs" t="Include" />
           <e p="LevelObstacle.cs" t="Include" />
+          <e p="LoadMainScene.cs" t="Include" />
           <e p="MainMenuManager.cs" t="Include" />
           <e p="ObjectPool.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
           <e p="UpdateProvider.cs" t="Include" />
+          <e p="Utils.cs" t="Include" />
         </e>
       </e>
       <e p="GenesisGame.sln" t="IncludeFlat" />
